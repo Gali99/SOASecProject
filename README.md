@@ -7,3 +7,14 @@ Abbiamo sviluppato un'applicazione che consente agli utenti registrati il carica
 Nello sviluppo si è utilizzato Spring (Spring Boot e Spring Security), MySQL per gestire il database denominato 'circolari' il cui file sql è riportato in questo repository e le REST API per esporre le risoese in maniera sicura. I dettagli sono comunque riportati nella presentazione "SOASecGalimbertiGiardinaRuo.pdf" e nel file delle specifiche "file.docx", entrambi presenti in questo repository.
 
 Per qualsiasi dubbio o informazione non esitate a contattarci utilizzando le modalità riportate nella homepage dell'applicazione.
+
+#
+
+The "Le Circolari" project was developed for educational purposes for the "Sicurezza delle Architetture Orientate ai Servizi" course, a master's degree course in CyberSecurity at the University of Milan. The project was developed by myself in collaboration with colleagues Ruo Mattia and Giardina Stefano.
+
+We have developed an application that allows registered users to upload and view circulars for a generic school. The authentication and authorization process takes place through the use of the OAuth2.0 protocol, of which all components have been developed.
+
+Spring (Spring Boot and Spring Security) was used in the development, MySQL to manage the database called 'circolari' whose sql file is reported in this repository and the REST APIs to expose the resources in a secure way. The details are however reported in the presentation "SOASecGalimbertiGiardinaRuo.pdf" and in the "file.docx" specification file, both present in this repository.
+
+For any questions or information, do not hesitate to contact us using the methods shown on the application's homepage.
+
