@@ -6,4 +6,4 @@ Abbiamo sviluppato un'applicazione che consente agli utenti registrati il carica
 
 Nello sviluppo si è utilizzato Spring (Spring Boot e Spring Security), MySQL per gestire il database denominato 'circolari' il cui file sql è riportato in questo repository e le REST API per esporre le risoese in maniera sicura. I dettagli sono comunque riportati nella presentazione "SOASecGalimbertiGiardinaRuo.pdf" e nel file delle specifiche "file.docx", entrambi presenti in questo repository.
 
-Per qualsiasi dubbio o informazione non esitate a contattarci utilizzando le modalità di contatto riportate nella homepage dell'applicazione.
+Per qualsiasi dubbio o informazione non esitate a contattarci utilizzando le modalità riportate nella homepage dell'applicazione.
