@@ -10,7 +10,7 @@ Per qualsiasi dubbio o informazione non esitate a contattarci utilizzando le mod
 
 #
 
-The "Le Circolari" project was developed for educational purposes for the "Sicurezza delle Architetture Orientate ai Servizi" course, a master's degree course in CyberSecurity at the University of Milan. The project was developed by myself in collaboration with colleagues Ruo Mattia and Giardina Stefano.
+The "Le Circolari" project was developed for educational purposes for the "Sicurezza delle Architetture Orientate ai Servizi" course, a master's degree course in Cyber Security at the University of Milan. The project was developed by myself in collaboration with colleagues Ruo Mattia and Giardina Stefano.
 
 We have developed an application that allows registered users to upload and view circulars for a generic school. The authentication and authorization process takes place through the use of the OAuth2.0 protocol, of which all components have been developed.
 
